@@ -1,6 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/Berkayergun16?style=social)]
 ![GitHub stars](https://img.shields.io/github/stars/berkayergun16?style=social)
-(<img src="https://komarev.com/ghpvc/?username=berkayergun16&label=Profile%20views&color=0e75b6&style=flat" alt="berkayergun16" />)
+<img src="https://komarev.com/ghpvc/?username=berkayergun16&label=Profile%20views&color=0e75b6&style=flat" alt="berkayergun16" />
 
 
 
