@@ -2,7 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Berkayergun16?style=social)]
 ![GitHub stars](https://img.shields.io/github/stars/berkayergun16?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=Berkayergun16.visitor-badge)]
 
 
 # Hi 👋
@@ -21,21 +20,9 @@ Contact me via these platforms!
 
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=react&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Berkayergun16&count_private=true&show_icons=true&theme=tokyonight">
-</p>
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayergun16&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-  </p>
-
-</p>
