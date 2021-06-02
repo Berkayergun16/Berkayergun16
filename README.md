@@ -41,11 +41,8 @@ Contact me via these platforms!
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayergun16&show_icons=true&locale=en" alt="berkayergun16" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayergun16&show_icons=true&locale=en&layout=compact" alt="berkayergun16" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayergun16&show_icons=true&locale=en&theme=tokyonight" alt="berkayergun16" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkayergun16&" alt="berkayergun16" /></p>
 
 
   
