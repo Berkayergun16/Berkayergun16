@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![GitHub followers](https://img.shields.io/github/followers/Berkayergun16?style=social)]
 ![GitHub stars](https://img.shields.io/github/stars/berkayergun16?style=social)
 
