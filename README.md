@@ -6,7 +6,7 @@
 
 
 # Hi 👋
-I'm Berkay! I improve myself on projects related to web.
+<b>I'm Berkay!</b> I improve myself on projects related to web.
 
 Contact me via these platforms! 
 
