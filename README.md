@@ -20,7 +20,7 @@ Contact me via these platforms!
 
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=react&logoColor=white"></img>
+<img src="https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=react&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
