@@ -38,12 +38,12 @@ Contact me via these platforms!
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
      <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     </p>
-   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayergun16&show_icons=true&locale=en&layout=compact" alt="berkayergun16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayergun16&show_icons=true&locale=en" alt="berkayergun16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayergun16&show_icons=true&locale=en&layout=compact" alt="berkayergun16" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkayergun16&" alt="berkayergun16" /></p>
 
