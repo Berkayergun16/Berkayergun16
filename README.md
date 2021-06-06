@@ -1,6 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Berkayergun16?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/berkayergun16?style=social)
-//<img src="https://komarev.com/ghpvc/?username=berkayergun16&label=Profile%20views&color=0e75b6&style=flat" alt="berkayergun16" />
+
 
 
 
@@ -39,9 +39,6 @@ Contact me via these platforms!
      <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     </p>
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayergun16&show_icons=true&locale=en&theme=tokyonight" alt="berkayergun16" /></p>
 
 
 
