@@ -7,7 +7,7 @@
 
 # Hi 👋
 <b>I'm Berkay!</b> I improve myself on projects related to web and mobile.
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working Full Stack Developer on [MSC Technology](http://www.mscteknoloji.com)
 - 🌱 I’m currently learning **Flutter, Dart**
 - 📝 I regularly write articles on [Temel Bilgi](temelbilgi.com) and [Medium](https://medium.com/@berkay-ergun) 
 - 📫 How to reach me **berkay.ergun16@gmail.com**
