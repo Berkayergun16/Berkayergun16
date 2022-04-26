@@ -5,7 +5,7 @@
 
 
 
-# Hi 👋
+<!-- # Hi 👋
 <b>I'm Berkay!</b> I improve myself on projects related to web and mobile.
 - 🔭 I’m currently working Full Stack Developer on [MSC Technology](http://www.mscteknoloji.com)
 - 🌱 I’m currently learning **Flutter, Dart**
@@ -39,5 +39,5 @@ Contact me via these platforms!
 
 
 
-  
+  -->
 
