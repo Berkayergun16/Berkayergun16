@@ -5,7 +5,7 @@
 
 
 
-<!-- # Hi 👋
+ # Hi 👋
 <b>I'm Berkay!</b> I improve myself on projects related to web and mobile.
 - 🔭 I’m currently working Full Stack Developer on [MSC Technology](http://www.mscteknoloji.com)
 - 🌱 I’m currently learning **Flutter, Dart**
@@ -38,6 +38,4 @@ Contact me via these platforms!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayergun16&label=Profile%20views&color=0e75b6&style=flat" alt="berkayergun16" /> </p>
 
 
-
-  -->
 
