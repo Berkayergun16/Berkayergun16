@@ -1,12 +1,12 @@
 # Table of contents
 
-* [React Notları](README.md)
+* [React Dokümantasyonu](README.md)
 
-## Group 1
+## 😊 Temel Bilgiler
 
-* [React Temel Bilgiler](group-1/react-temel-bilgiler.md)
-* [React Ne İşe Yarar?](group-1/react-ne-ise-yarar.md)
-* [React ile Neler Yapılır?](group-1/react-ile-neler-yapilir.md)
+* [React Temel Bilgiler](temel-bilgiler/react-temel-bilgiler.md)
+* [React Ne İşe Yarar?](temel-bilgiler/react-ne-ise-yarar.md)
+* [React ile Neler Yapılır?](temel-bilgiler/react-ile-neler-yapilir.md)
 
 ***
 
